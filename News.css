@@ -1,0 +1,20 @@
+h1
+{
+font-family:serif;
+text-align: center;
+text-decoration: underline;
+text-transform: uppercase;
+text-decoration-color: blue;
+
+}
+#bild
+{
+max-width: 40%;
+height: auto;
+border-radius: 8px;
+
+position: absolute;
+top: 15%;
+left: 30%;
+
+}
